@@ -8,7 +8,7 @@
 # Hello GitHub Actions
 
 :smile:_
-_Create a GitHub Action and use it in a workflow._
+Create a GitHub Action and use it in a workflow._
 
 <!--
   <<< Author notes: Start of the course >>>
